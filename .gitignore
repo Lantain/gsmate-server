@@ -1,4 +1,6 @@
 .DS_Store
-db/
+db/sqlite.db
 package-lock.json
 node_modules/
+.venv/
+.env
